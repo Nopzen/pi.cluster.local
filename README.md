@@ -8,7 +8,7 @@ In this repository, I will not try to demonstrate how to set up the cluster but 
 
 ## Requirements
 
-To get started you will need a machine where you can run a li
+To get started you will need a machine where you can run a linux os.
 
 My personal cluster setup consists of:
 
@@ -23,12 +23,7 @@ Optional things
  - Master node GPIO Screen: [Pimoroni Hyper Pixel 4](https://shop.pimoroni.com/products/hyperpixel-4?variant=12569485443155)
  - Cluster rack: [GeekPi Raspberry Pi Cluster Rack](https://www.amazon.com/GeeekPi-Cluster-Raspberry-Heatsink-Stackable/dp/B07MW24S61/)
 
-None of the links above are referal or affiliate links, it's just links to the products I use.
- 
-### How does it look like:
-<img src="https://user-images.githubusercontent.com/2326591/147874743-5443857c-6e9f-4a66-b456-9a2829ff752e.jpg" alt="drawing" width="250"/>
-<img src="https://user-images.githubusercontent.com/2326591/147874745-a8407f70-97b4-4c1b-8ad6-38ec25723f31.jpg" alt="drawing" width="250"/>
-<img src="https://user-images.githubusercontent.com/2326591/147874746-7e896535-ba9f-4d4d-8063-6912f60f8732.jpg" alt="drawing" width="250"/>
+ None of the links above are referal or affiliate links, it's just links to the products I use.
 
 ## Resources
 
