@@ -35,6 +35,7 @@ I highly recommend if this is your first cluster to read the _Walk-through — i
  - [Walk-through — install Kubernetes to your Raspberry Pi in 15 minutes by Alex Ellis](https://alexellisuk.medium.com/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a)
  - [Official K3S Docs by Rancher](https://rancher.com/docs/k3s/latest/en/)
  - [Official Kubernetes Docs by](https://kubernetes.io/)
+ - [Tailscale x Kubernetes VPN](https://blog.porter.run/kubernetes-x-tailscale/)
 
 ## Tools
 
