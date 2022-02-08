@@ -71,4 +71,4 @@ If you do not see this, either try and restart your machine to ensure it picks u
 
 ## Special thanks
 
-I would like to give a special thanks to [Alex Ellis](https://twitter.com/alexellisuk) To have created a ton of great blog posts about k3s and pi clustering. He is a really nice guy, and really passionate about k3s and tolling for k3s, most of the tools above a created by Alex.
+I would like to give a special thanks to [Alex Ellis](https://twitter.com/alexellisuk) To have created a ton of great blog posts about k3s and pi clustering. He is a really nice guy, and really passionate about k3s and tooling for k3s, most of the tools above a created by Alex.
