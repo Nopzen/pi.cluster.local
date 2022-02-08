@@ -17,6 +17,7 @@ My personal cluster setup consists of:
  - Agent node (2): [Raspberry Pi 3 B+, 1Gb](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
  - A stable and fast internet connection, Currently mine are running on my home WIFI, i will how ever recommend cabled ethernet connection for a more stable connection.
 
+
  _Short note on Raspberry Pi PSU, they can be rather expensive the official ones but are kinda important, to ensure your pi's will get the power needed, the problem is with phone chargers most of them do not deliver the ampere needed, most will deliver 1 - 2.4 amp, where the pi's will need 3 AMP, and 5 Volts, but most chargers will deliver that. :)_
 
 Optional things
@@ -24,6 +25,10 @@ Optional things
  - Cluster rack: [GeekPi Raspberry Pi Cluster Rack](https://www.amazon.com/GeeekPi-Cluster-Raspberry-Heatsink-Stackable/dp/B07MW24S61/)
 
  None of the links above are referal or affiliate links, it's just links to the products I use.
+
+ - Virtual Server (exit node) [Basic DigitalOcean Droplet](https://m.do.co/c/cf8ff7e86342) (Referal link)
+
+ The virtual server is only needed if you want to expose the cluster to the internet, and not exposing your own private ip address.
 
 ## Resources
 
