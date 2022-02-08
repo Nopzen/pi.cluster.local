@@ -1,0 +1,8 @@
+export K3S_CLUSTER_HOST_IP=
+export K3S_CLUSTER_WORKER_1_IP=
+
+export TAILSCALE_ACCESS_TOKEN=
+export EXIT_NODE_IP=
+
+alias connectexitnode="ssh root@$EXIT_NODE_IP"
+
