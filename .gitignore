@@ -1,2 +1,2 @@
 docker-config.json
-secrets
+.cluster_env_variables
