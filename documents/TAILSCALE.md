@@ -16,15 +16,14 @@ $ tailscale up --accept-routes
 
 Follow the on screen instruction to finish setup.
 
-It is important to include the flag `--accept-routes`, as this allows us to use the subnet router. 
-That will be deployed in the kubernetes cluster.
+It is important to include the flag `--accept-routes`, as this allows us to use the subnet router. That will be deployed in the kubernetes cluster.
 
 ## Deploying the subnet in Kubernetes
 
 This will be the TL;DR if you want the long more indepth read i did this would be the link [Tailscale x Kubernetes](https://blog.porter.run/kubernetes-x-tailscale/).
 
 1. Generate a authentication key on [Tailscale admin](https://login.tailscale.com/admin/settings/authkeys)
-2. Get the ip range for the services: `kubectl get services`, example: `10.47.0.0/16`
+2. Get the ip sub range for the services: `kubectl get services`, example: `10.47.0.0/16`
 3. Add the helm charts repo to helm: `helm repo add mvisonneau https://charts.visonneau.fr`
 4. Install the pods.
 
